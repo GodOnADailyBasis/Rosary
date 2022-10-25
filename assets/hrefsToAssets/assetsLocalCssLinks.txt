@@ -1,0 +1,8 @@
+<!-- Vendor CSS Files from local directory -->
+<link rel="stylesheet" href="assets/css/animate.4.1.1.min.css">
+<link rel="stylesheet" href="assets/css/aos.2.3.4.min.css">
+<link rel="stylesheet" href="assets/css/bootstrap-icons.1.9.1.min.css">
+<link rel="stylesheet" href="assets/css/animations.2.1.4.min.css">
+<link rel="stylesheet" href="assets/css/glightbox.3.2.0.min.css">
+<link rel="stylesheet" href="assets/css/swiper-bundle.8.4.4.min.css">
+<link rel="stylesheet" href="assets/css/remixicon/remixicon.css">
